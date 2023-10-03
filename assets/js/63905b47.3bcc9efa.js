@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomelabwiki=self.webpackChunkhomelabwiki||[]).push([[46],{2238:e=>{e.exports=JSON.parse('{"label":"haswell","permalink":"/wiki/docs/tags/haswell","allTagsPath":"/wiki/docs/tags","count":1,"items":[{"id":"hardware/sff_tower/HP/z230","title":"HP Workstation Z230","description":"HP z230 sff","permalink":"/wiki/docs/hardware/sff_tower/HP/z230"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomelabwiki=self.webpackChunkhomelabwiki||[]).push([[469],{1983:e=>{e.exports=JSON.parse('{"label":"hp","permalink":"/wiki/docs/tags/hp","allTagsPath":"/wiki/docs/tags","count":1,"items":[{"id":"hardware/sff_tower/HP/z230","title":"HP Workstation Z230","description":"HP z230 sff","permalink":"/wiki/docs/hardware/sff_tower/HP/z230"}]}')}}]);
