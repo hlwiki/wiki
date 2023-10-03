@@ -1,0 +1,2 @@
+# Jaki sprzęt wybrać?
+
